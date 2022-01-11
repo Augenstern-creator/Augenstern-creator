@@ -1,3 +1,4 @@
+#### Augenstern-creator
 <h1 align="center">Hi 👋, I'm Augenestern</h1>
 <h3 align="center">A struggling developer from China</h3>
 
@@ -9,3 +10,16 @@
 ![:Augenestern-creator](https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru-h)
 
 ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-yellowgreen)
+
+[![Augenstern-creator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Augenstern-creator&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augenstern-creator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
