@@ -18,8 +18,25 @@
 
 
 
+<div align="center"> <img src="https://metrics.lecoq.io/Augenstern-creator?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Augenstern-creator&theme=matrix"> </div>
 
 
 
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Augenstern-creator&left_color=green&right_color=red)
+ 
+ 
+ 
+ [![Augenstern-creator's github activity graph](https://activity-graph.herokuapp.com/graph?username=Augenstern-creator&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Augenstern-creator&theme=dark)](https://git.io/streak-stats)
 
+ 
+ 
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=Augenstern_QXL&theme=dark"> </div>
+ 
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=这世界那么多人;致敬奋斗路上劈星斩月的你!&center=true&size=27"> </h1>
+ 
